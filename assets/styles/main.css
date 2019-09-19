@@ -1,0 +1,33 @@
+.wrapper {
+  width: 100vw; /*1300px*/
+  height: 100vh;
+
+}
+
+.container {
+  width: 77%;
+  margin: 0 auto
+
+}
+
+.header {
+  background: url("../images/background-header.jpg") no-repeat;
+  padding: 28px 0 0 0;
+
+}
+
+.header__top {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(2, 1fr);
+
+}
+
+.header__top-logo {
+  margin: 0 0 0 -10px;
+  display: flex;
+  align-items: center;
+
+}
+
+
