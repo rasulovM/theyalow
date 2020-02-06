@@ -1,2 +1,2 @@
 # theyalow
-[Email:] (rasulov0492@gmail.com)
+Email: rasulov0492@gmail.com
